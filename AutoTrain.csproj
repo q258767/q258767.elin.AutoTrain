@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\BepInEx\core\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\Elin_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx.Core">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\BepInEx\core\BepInEx.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx.Unity">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\BepInEx\core\BepInEx.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Elin">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\Elin_Data\Managed\Elin.dll</HintPath>
+    </Reference>
+    <Reference Include="ModOptions">
+      <HintPath>E:\SteamLibrary\steamapps\workshop\content\2135150\3381182341\ModOptions.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugins.BaseCore">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\Elin_Data\Managed\Plugins.BaseCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugins.UI">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\Elin_Data\Managed\Plugins.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\Elin_Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\Elin_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\Elin_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\Elin_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\Elin_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>E:\SteamLibrary\steamapps\common\Elin\Elin_Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
